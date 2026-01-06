@@ -6,6 +6,8 @@ Although the user could just type in the converted path this is an easy to tool 
 It's an educational tool based in bash.
 
 HOW TO INSTALL (USING UBUNTU TERMINAL): 
+
+
 git clone https://github.com/Ollie-S23/wincd.git
 cd wincd
 ls 
