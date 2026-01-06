@@ -9,19 +9,34 @@ HOW TO INSTALL (USING UBUNTU TERMINAL):
 
 
 git clone https://github.com/Ollie-S23/wincd.git
+
+
 cd wincd
+
 ls 
 //This should list README.md wincd.sh
+
+
 chmod +x wincd.sh
 //This makes the file executable
+
+
 ls -l wincd.sh
 //This checks that the execution works.
 //It should print a message starting with "-rwxr-xr-x..."
+
+
 sudo cp wincd.sh /usr/local/bin/wincd
 //This should ask for sudo password. If sudo is not installed. Install sudo first
+
+
 sudo chmod +x /usr/local/bin/wincd
+
+
 cd 
 //go return to main
+
+
 wincd ollie "Music/iTunes"
 //This is an example of using the program
 
