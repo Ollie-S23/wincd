@@ -47,3 +47,5 @@ Example
 Spaces and case sesnitivity is needed
 Example to type prompt:
 wincd ollie "/Music/iTunes/Album Artwork" 
+
+NOTE: This program should work in all Linux Distros using WSL 1 or 2 and includes the standard WSL unilties. It has only been tested in Ubunutu WSL. The host machine must be Windows
